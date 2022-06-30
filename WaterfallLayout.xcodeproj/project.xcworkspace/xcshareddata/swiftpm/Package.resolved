@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Grid",
+        "repositoryURL": "https://github.com/spacenation/swiftui-grid.git",
+        "state": {
+          "branch": null,
+          "revision": "623f995c6ee0e5a5ed0e104d142daeae67b0ec92",
+          "version": "1.1.0"
+        }
+      },
+      {
+        "package": "SwiftUIMasonry",
+        "repositoryURL": "https://github.com/ciaranrobrien/SwiftUIMasonry.git",
+        "state": {
+          "branch": "main",
+          "revision": "651f84e32edd11919874fbd9167b50ecb60a72db",
+          "version": null
+        }
+      },
+      {
+        "package": "WaterfallGrid",
+        "repositoryURL": "https://github.com/paololeonardi/WaterfallGrid",
+        "state": {
+          "branch": null,
+          "revision": "944aa82832ed5a9eaaf50862cdd53e3c10ab55eb",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
